@@ -1,0 +1,20 @@
+{
+  "name": "new-react-bar-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "16.13.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
