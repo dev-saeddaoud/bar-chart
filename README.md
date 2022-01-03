@@ -1,4 +1,4 @@
-# Bar Chart [Live](https://my-bar-chart.herokuapp.com/)
+# Bar Chart <a href="https://my-bar-chart.herokuapp.com/" target="_blank">Live<a/>
 
 ### Summary
 This is an intercative bar chart developed using different state-of-the-art web technologies, that represents the population of countries. 
